@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuTopStories"
+        android:title="Top Stories" />
+    <item
+        android:id="@+id/mnuIndia"
+        android:title="India" />
+    <item
+        android:id="@+id/mnuWorld"
+        android:title="World" />
+    <item
+        android:id="@+id/mnuBusiness"
+        android:title="Business" />
+    <item
+        android:id="@+id/mnuSports"
+        android:title="Sports" />
+    <item
+        android:id="@+id/mnuEntertainment"
+        android:title="Entertainment" />
+    <item
+        android:id="@+id/mnuScience"
+        android:title="Science" />
+    <item
+        android:id="@+id/mnuRefresh"
+        android:title="Refresh" />
+</menu>
